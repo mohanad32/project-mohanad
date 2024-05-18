@@ -1,0 +1,120 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #282c34; 
+    color: #fff; 
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    padding-top: 50px;
+}
+
+h1 {
+    color: #ff6b6b; 
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #a4acc4; 
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.about, .education, .portfolio, .contact {
+    margin-bottom: 60px;
+}
+
+h2 {
+    color: #63E2C6; 
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+section p {
+    color: #cbd5e0; 
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #3e465b; 
+    border: none;
+    border-radius: 5px;
+    color: #cbd5e0; 
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+textarea:focus {
+    outline: none;
+    box-shadow: 0 0 5px #63e2c6; 
+}
+
+button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #63e2c6; 
+    border: none;
+    border-radius: 5px;
+    color: #282c34; 
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+    background-color: #4ea9a3; 
+}
+h2 {
+  text-decoration-line: underline;
+}
+h1 {<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Center Image</title>
+<style>
+  .center {
+    text-align: center;
+  }
+  
+  .center img {
+    display: block;
+    margin: 0 auto;
+  }
+</style>
+</head>
+<body>
+
+<div class="center">
+ <img src="A.jpg" alt="Centered Image">
+ <img src="b.jpg" alt="Centered Image">
+ <img src="c.jpg" alt="Centered Image">
+</div>
+
+</body>
+</html>
+
+  text-shadow: 4px 2px 6px blue;
+}
+ {
+   image: url('one.jpg');
+}
+
+
+    
+
